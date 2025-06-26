@@ -7,6 +7,6 @@
 
 # Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브이름&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guylee97&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브이름&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guylee97&layout=compact&theme=dracula)
